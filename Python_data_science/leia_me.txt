@@ -1,1 +1,1 @@
-Todos os arquivos que foram usados no curso.
+Todos os arquivos de python que foram usados no curso.
